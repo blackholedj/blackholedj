@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blackholedj
+- 👋 Hi, I’m @blackholedj or George
 - 👀 I’m interested in programing And photography
 - 🌱 I’m currently learning Python And Docker
 - 💞️ I’m looking to collaborate on nothing
